@@ -86,7 +86,7 @@ body {
 }
 
 .turn.left span.o {
-  border-color: #eee;
+  border-color: #a5a5a5;
 }
 .turn.right span.x::before,
 .turn.right span.x::after {
